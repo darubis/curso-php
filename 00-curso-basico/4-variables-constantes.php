@@ -3,7 +3,7 @@
 $numero_1 = 8;
 $numero_2 = 7;
 
-// una variable se pone en mayuscula y 
+// una constante se pone en mayuscula y 
 define("NUMERO_PI", 3.14);
 
 echo NUMERO_PI;
